@@ -1,0 +1,7 @@
++++++++++++/*Install Go Environment*/+++++++++++
+
+Step 1: Install Go compiler please follow step by step the document below
+
+https://golang.org/doc/install
+
+Step 2: Ask me if you concern
